@@ -1,1 +1,0 @@
-import{s as r}from"./CJPpJT5K.js";import"./D8-56j2j.js";var s={name:"Row",extends:r,inject:["$rows"],mounted:function(){var t;(t=this.$rows)===null||t===void 0||t.add(this.$)},unmounted:function(){var t;(t=this.$rows)===null||t===void 0||t.delete(this.$)},render:function(){return null}};export{s as default};
